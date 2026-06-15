@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 # Sayfa Ayarları
 st.set_page_config(page_title="Emo-Challenge 2026 - Canlı Demo", page_icon="🎙️", layout="centered")
 
-st.title("🎙️ Duygu Tanıma Canlı Demo - Grup 05")
+st.title("🎙️ Duygu Tanıma Canlı Demo - Grup 04")
 st.markdown("**Faz 3:** Optimize edilmiş Ensemble modelimiz ve *Canlı Ses İyileştirme Filtreleri* kullanılarak gerçek zamanlı duygu analizi yapılmaktadır.")
 
 # Model, Scaler ve LabelEncoder'ı Yükle
