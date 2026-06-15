@@ -1,7 +1,7 @@
 """
 BIL216 - Emo-Challenge 2026
 Canlı Demo ve Web Arayüzü (Gürültü Filtreli ve Normalize Sürüm)
-Grup 05
+Grup 04
 """
 import streamlit as st
 import librosa
