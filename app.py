@@ -21,7 +21,7 @@ st.markdown("**Faz 3:** Optimize edilmiş Ensemble modelimiz ve *Canlı Ses İyi
 @st.cache_resource
 def load_system():
     try:
-        model = joblib.load("FinalProje_Model_GRUP05.pkl") 
+        model = joblib.load("FinalProje_Model_GRUP04.pkl") 
         scaler = joblib.load("scaler.pkl")
         le = joblib.load("le.pkl")
         return model, scaler, le
