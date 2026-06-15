@@ -1,7 +1,7 @@
 """
 BIL216 - Emo-Challenge 2026
 FAZ 3: DATA AUGMENTATION (VERİ ÇOĞALTMA) & ENSEMBLE
-Grup 05 - Hedef: 90%+ Doğruluk
+
 """
 import joblib
 import os
